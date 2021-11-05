@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CD92C38F-D9F1-44EB-810F-5E5787A24739}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PoPSoTHM</RootNamespace>
-    <AssemblyName>PoPSoTHM</AssemblyName>
+    <RootNamespace>PoPSoTTools</RootNamespace>
+    <AssemblyName>PoPSoTTools</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
